@@ -50,7 +50,7 @@ ds_Devraj_Choudhary/
 
 ##  Live Notebook
 
- [Google Colab notebook link](<insert-your-colab-link-here>)
+ [Google Colab notebook link](https://colab.research.google.com/drive/1s-u9j7YrwHdkc1Cl05C-fKvs4i3xkU-0?usp=sharing)
 
 ---
 
